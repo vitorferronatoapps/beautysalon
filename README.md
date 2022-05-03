@@ -1,12 +1,13 @@
 # OriginSix
 
-<p> Projeto feito durante o NLW together da RocketSeat </p>
+ ## 💻 Projeto 
+ Projeto feito durante o NLW together da RocketSeat, apresenta um site customizavel de um salão de beleza. 
 
-##Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 * HTML / CSS
 * Javascript
 
-## Libs
+## 💻 Libs
 * Swiper
 * Scroll Review
 * Ion icons
